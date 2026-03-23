@@ -1,0 +1,7 @@
+{
+    "r2_endpoint_url": "https://5971d63a2bf4e39de45b2389e23c2a42.r2.cloudflarestorage.com",
+    "r2_access_key_id": "9801164544ddbec2b49f3a882e2cd8c5",
+    "r2_secret_access_key": "9de2beb9204d33d773d151ff45a9a2a5bed33a6ce4b48aa40f7c58ab5b3080db",
+    "r2_bucket_name": "<eduorbitlms>",
+    "r2_public_domain": "https://cdn.br31tech.live"
+}
